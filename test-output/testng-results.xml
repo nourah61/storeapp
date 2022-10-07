@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="13895" started-at="2022-10-03T19:03:51 AST" finished-at="2022-10-03T19:04:05 AST">
+    <groups>
+    </groups>
+    <test name="C:/m/storeapp" duration-ms="13895" started-at="2022-10-03T19:03:51 AST" finished-at="2022-10-03T19:04:05 AST">
+      <class name="testcase.cheksome">
+        <test-method status="PASS" signature="setappdriver()[pri:0, instance:testcase.cheksome@7d0587f1]" name="setappdriver" is-config="true" duration-ms="12205" started-at="2022-10-03T19:03:51 AST" finished-at="2022-10-03T19:04:03 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setappdriver -->
+        <test-method status="PASS" signature="cheksome()[pri:0, instance:testcase.cheksome@7d0587f1]" name="cheksome" duration-ms="1035" started-at="2022-10-03T19:04:03 AST" finished-at="2022-10-03T19:04:04 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cheksome -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcase.cheksome@7d0587f1]" name="teardown" is-config="true" duration-ms="593" started-at="2022-10-03T19:04:04 AST" finished-at="2022-10-03T19:04:05 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.cheksome -->
+    </test> <!-- C:/m/storeapp -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
